@@ -1,20 +1,23 @@
 # Hello, I'm Issarapong Poesua! 👋
 
+## About me
+I am a software engineer with a passion for building innovative and user-friendly applications. I have experience in a variety of programming languages and technologies, and I am always eager to learn new things.
+
+In my spare time, I enjoy listing to podcasts, watching series, and spending time with my family, friends, and pets.
+
+## Skills
+Programming Languages: Swift, Objective-C, Ruby, Dart
+Technologies: iOS, Flutter, Fastlane, CI/CD
+Other Skills: Agile development, DevOps, Kanban
 
 
-Welcome to my GitHub profile! 
+## Contact Information
 
-I'm a skilled software engineer with over 6 years of experience, I have a proven track record of building tools and products that significantly enhance business and engineer productivity. My expertise lies in developing iOS applications and frameworks using Swift and Objective-C. 
-
-I am experienced in building and releasing products at scale, and have worked with high pipeline complexity. I am a self-starter and able to effectively manage independent projects, as well as thrive as part of a productive team.
-
-## About Me
-
-- 🌍 Location: Bangkok Thailand
+- 🌍 Location: Bangkok, Thailand
 - 💼 Profession: iOS Engineer
 - 📫 How to reach me: dekablade01@gmail.com
 
-----
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dekablade01&layout=compact&theme=dark)
 
