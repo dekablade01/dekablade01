@@ -7,7 +7,9 @@ In my spare time, I enjoy listing to podcasts, watching series, and spending tim
 
 ## Skills
 Programming Languages: Swift, Objective-C, Ruby, Dart
+
 Technologies: iOS, Flutter, Fastlane, CI/CD
+
 Other Skills: Agile development, DevOps, Kanban
 
 
