@@ -6,9 +6,9 @@ I am a software engineer with a passion for building innovative and user-friendl
 In my spare time, I enjoy listing to podcasts, watching series, and spending time with my family, friends, and pets.
 
 ## Skills
-Programming Languages: Swift, Objective-C, Ruby, Dart
+Programming Languages: Swift, Objective-C, JavaScript, TypeScript, Ruby, Dart.
 
-Technologies: iOS, Flutter, Fastlane, CI/CD
+Technologies: iOS, Flutter, ReactJS, Fastlane, CI/CD
 
 Other Skills: Agile development, DevOps, Kanban
 
