@@ -24,4 +24,4 @@ Other Skills: Agile development, DevOps, Kanban
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dekablade01&layout=compact&theme=dark)
 
 
-![](https://github-readme-stats.vercel.app/api?username=dekablade01&show_icons=true&theme=dark&hide=contribs)
+![](https://github-readme-stats.vercel.app/api?username=dekablade01&show_icons=true&theme=dark&hide=contribs,issues)
